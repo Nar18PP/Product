@@ -1,0 +1,19 @@
+
+
+    body{
+        font-family: Oswald;
+    }
+    .monitor{
+        width: 480px;
+
+        height: 100%;
+        position: absolute;
+        left: 50%;
+        top: 0%;
+        background-color: #999;
+        border: none solid slategray;
+        transform: translate(-50%, 0%);
+    }
+    
+
+
